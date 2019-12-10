@@ -2,6 +2,8 @@
 Zeep: Python SOAP client 
 ========================
 
+* Forked Zeep to fix a problem with AnySimpleType.pythonvalue method raising not implemented error. *
+
 A fast and modern Python SOAP client
 
 Highlights:
